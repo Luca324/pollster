@@ -6,6 +6,64 @@
 [![Django 4.0+](https://img.shields.io/badge/Django-4.0+-green.svg)](https://djangoproject.com)  
 [![MySQL 8.0+](https://img.shields.io/badge/MySQL-8.0+-orange.svg)](https://mysql.com)  
 
+## 📸 Галерея проекта
+
+### 🚪 Вход в систему
+Страница авторизации и регистрации пользователей.
+
+<p align="center">
+  <img width="1680" alt="Страница входа" src="https://github.com/user-attachments/assets/949174e6-0eb1-42f1-a67d-4d4b5a8cb094" />
+</p>
+
+### 🏠 Главный экран
+Основная страница приложения с доступным функционалом.
+
+<p align="center">
+  <img width="1130" alt="Главный экран" src="https://github.com/user-attachments/assets/4288e255-ed3d-4076-84ab-07686985a89e" />
+</p>
+
+### 📌 Подвал сайта
+Навигация и дополнительная информация в подвале страницы.
+
+<p align="center">
+  <img width="1131" alt="Подвал" src="https://github.com/user-attachments/assets/62e905d0-f5d9-4c69-9e5b-91916141abca" />
+</p>
+
+### 👤 Личный кабинет
+Профиль пользователя и управление персональными данными.
+
+<p align="center">
+  <img width="886" alt="Личный кабинет" src="https://github.com/user-attachments/assets/52847d04-9944-442a-84cc-a41e7327c429" />
+</p>
+
+### 📊 Результаты опросов
+Просмотр и анализ результатов проведенных опросов.
+
+<p align="center">
+  <img width="1184" alt="Результаты опроса 1" src="https://github.com/user-attachments/assets/62d1d7ac-f99d-489a-b3e6-328ba464284e" />
+</p>
+<p align="center">
+  <img width="1172" alt="Результаты опроса 2" src="https://github.com/user-attachments/assets/0b3cc3d9-af19-4362-8ce8-3f381d6155fb" />
+</p>
+
+### ✏️ Создание опроса
+Конструктор для создания новых опросов.
+
+<p align="center">
+  <img width="1176" alt="Создание опроса шаг 1" src="https://github.com/user-attachments/assets/2742e373-5430-43b3-8639-c00d9b9476ac" />
+</p>
+<p align="center">
+  <img width="1170" alt="Создание опроса шаг 2" src="https://github.com/user-attachments/assets/b8e63ea7-e915-489a-80db-52dade45357f" />
+</p>
+
+### ✅ Прохождение опроса
+Интерфейс для респондентов при прохождении опроса.
+
+<p align="center">
+  <img width="1403" alt="Прохождение опроса" src="https://github.com/user-attachments/assets/2798639b-fce8-44c0-a007-2234a4dab4fd" />
+</p>
+
+
 ## 🔥 Основные возможности  
 - Создание опросов с различными типами вопросов  
 - Гибкая система авторизации пользователей  
